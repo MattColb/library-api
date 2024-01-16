@@ -6,6 +6,8 @@
 
 .venv/
 
+mongo_venv/
+
 __pycache__/
 
 *.py[cod]
